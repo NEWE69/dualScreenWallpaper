@@ -1,1 +1,1 @@
-# dualScreenWallpaper
+# DualScreen Wallpaper For Linux
